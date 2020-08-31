@@ -13,3 +13,4 @@
 *   Utilização de JWT para manipulação de sessão
 *   Utilização de multer para upload de imagens
 *   Utilização de lib express-async-errors para tratativa de erros de função assíncronas
+*   Utilização de eslint para padronização de código
