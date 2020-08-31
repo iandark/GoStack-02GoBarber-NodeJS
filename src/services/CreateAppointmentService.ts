@@ -5,7 +5,7 @@ import AppointmentsRepository from "../repositories/AppointmentsRepository";
 
 interface RequestDTO {
     date: Date;
-    provider: string;
+    provider_id: string;
 }
 
 class CreateAppointmentService {

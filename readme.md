@@ -10,3 +10,4 @@
 *   Configuração de ormconfig (com postgre)
 *   Utilização de migrations com typeorm
 *   Criptografia de senha utilizando bcryptjs
+*   Utilização de JWT para manipulação de sessão
