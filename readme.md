@@ -18,7 +18,7 @@
 
 <br>
 
-## Scripts disponíves
+## Scripts disponíveis
 
 Neste projeto você pode executar:
 
